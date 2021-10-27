@@ -1,7 +1,7 @@
 # Physics Based Game Mechanics 
 
 ## Why? 
-Have you ever had an awesome game idea you couldn't pursue because you didn't know the math behind the game mechanic? 
+Have you ever had an awesome game idea you couldn't pursue because you didn't know the math behind a game mechanic? 
 This repository hopes to reduce this problem by providing examples of how to recreate various game mechanics using a variety of tools. 
 
 ## Contributing 
